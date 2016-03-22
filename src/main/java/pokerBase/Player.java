@@ -1,4 +1,4 @@
-package casinoPackage;
+package pokerBase;
 import java.util.UUID;
 
 import pokerBase.*;
